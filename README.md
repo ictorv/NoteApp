@@ -1,0 +1,2 @@
+# NoteApp
+FastAPI Note App
