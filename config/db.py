@@ -1,3 +1,3 @@
 from pymongo import MongoClient
-MONGO_URI="mongodb+srv://victor:Victor%4012@cluster0.qkqc8lg.mongodb.net"
+MONGO_URI="ENTER MONGODB_URI HERE"
 conn=MongoClient(MONGO_URI)
